@@ -1,0 +1,378 @@
+---
+title: "NORTH BENGAL Package"
+page-layout: full
+toc: false
+---
+
+
+
+::: {.itinerary-hero}
+![](/images/northbengal/nbengal.jpeg)
+
+::: {.hero-overlay}
+::: {.hero-content}
+# Discover the Hidden Gems of North Bengal
+
+**5 Nights – 6 Days** | Kalimpong • Darjeeling
+
+*Where Ancient Trails Meet Untold Stories*
+
+::: {.hero-meta}
+[🗓️ Best Time: Mar - June, Sept - Dec]{.meta-item}
+[👥 Group Size: 2-12 People]{.meta-item}
+[📍 Pickup: NJP
+]{.meta-item}
+:::
+
+[Book This Tour](contact.qmd){.btn .btn-primary .btn-lg}
+[Download PDF](#){.btn .btn-outline-light .btn-lg}
+:::
+:::
+:::
+
+
+::: {.tour-intro .text-center .py-4}
+This **offbeat itinerary** takes you deep into the hidden treasures of North Bengal. From the tribal villages of **Panbu** and orange orchards of **Sittong** to the colonial cantonments of **Takdah** and the legendary tea gardens of **Darjeeling**, every stop on this journey is a blend of scenic beauty and untold history.
+:::
+
+
+
+## Route Map
+
+::: {.route-visual}
+<pre class="text-center" style="font-family: monospace; overflow-x: auto; white-space: pre;">
+📍 NJP ➡️ 🔭 PANBU (1N) ➡️ 🏵️ KALIMPONG (1N) ➡️ 🍊 SITTONG (1N)
+                                                         │
+                                                         ▼
+📍 NJP ⬅️ 🚂 KURSEONG ⬅️ 🏔️ DARJEELING (1N) ⬅️ 🏡 TAKDAH (1N)
+</pre>
+:::
+
+
+
+## Detailed Itinerary
+
+::: {.day-card}
+::: {.day-header}
+::: {.day-title}
+### DAY 1: Arrival at NJP – Transfer to Panbu Dara
+:::
+::: {.day-route}
+📍 NJP → Panbu Dara | 🚗 2.5 hrs | 🏨 Overnight: Panbu/Charkhole
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- **Meet & Greet** at NJP Railway Station / Bagdogra Airport.
+- **Scenic Drive** to Panbu Dara, a hidden hilltop offering 360-degree views.
+- **Check-in** at your homestay.
+- **Visit Charkhole**, a quiet forest retreat nearby.
+- Sunset views over the winding **Teesta River**.
+
+#### 🔭 Highlights
+- Panoramic views of Kanchenjunga (weather permitting).
+- Walk through pine forests.
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Panbu Dara
+Historically, Panbu Dara served as a **natural watchtower** overlooking the Teesta valley. It helped villagers monitor trade caravans and safeguard against invasions from the plains.
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 2: Panbu to Kalimpong – The Silk Route Hub
+:::
+::: {.day-route}
+📍 Panbu → Kalimpong | 🚗 2 hrs | 🏨 Overnight: Kalimpong
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- Breakfast with mountain views.
+- Transfer to **Kalimpong**, the historic trading town.
+- **Sightseeing Tour**:
+    - **Deolo Hill**: The highest point in town.
+    - **Durpin Monastery**: Consecrated by the Dalai Lama.
+    - **Cactus Nurseries**: Famous for exotic Himalayan flora.
+- Evening walk in the **Kalimpong Market**.
+
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Kalimpong
+Once a vibrant hub on the **Silk Route** between India and Tibet via the Jelep La Pass. The town was controlled by the Bhutanese and later the British, making it a center of politics and commerce.
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 3: Kalimpong to Sittong – The Orange Village
+:::
+::: {.day-route}
+📍 Kalimpong → Sittong | 🚗 2 hrs | 🏨 Overnight: Sittong
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- Drive to **Sittong**, famously known as the "Orange Village".
+- En route, stop at the historic **Coronation Bridge**.
+- Visit **Ahaldara Viewpoint** for breathtaking views of the Teesta loop.
+- Explore the **local orange orchards** (best in winter).
+- Visit the bamboo church and traditional Lepcha houses.
+
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Lepcha Heritage
+Sittong is a stronghold of the **Lepcha tribe**, the indigenous people of the Himalayas. Their deep connection to nature is reflected in their bamboo architecture and sustainable farming practices.
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 4: Sittong to Takdah – Colonial Cantonment
+:::
+::: {.day-route}
+📍 Sittong → Takdah | 🚗 1.5 hrs | 🏨 Overnight: Takdah
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- Transfer to **Takdah**, a misty hamlet frozen in time.
+- Visit the **Orchid Center** (one of the best in Asia).
+- Explore the **Tinchuley Gumbadara Viewpoint**.
+- Walk through the **Rungli Rungliot Tea Garden**.
+- Stay in a **heritage British Bungalow** (if available).
+
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – British Takdah
+Takdah started as a **British military cantonment** during World War I (1915-1919). The officers built numbered bungalows here (e.g., Bungalow No. 12), many of which still stand today as heritage homestays.
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 5: Takdah to Darjeeling – Queen of Hills
+:::
+::: {.day-route}
+📍 Takdah → Darjeeling | 🚗 1.5 hrs | 🏨 Overnight: Darjeeling
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- Drive to Darjeeling via the scenic **Lamahatta Eco Park**.
+- Arrive in Darjeeling by afternoon.
+- Evening leisure walk on the **Mall Road (Chowrasta)**.
+- Visit **Glenary's** or **Keventer's** for colonial-era confectioneries.
+- Shop for Darjeeling Tea and woolens.
+
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Summer Capital
+Established by the **British East India Company** in the 1830s, Darjeeling became the "Summer Capital of Bengal." It was developed as a sanatorium and later became the center of the world's most famous tea industry.
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card .last-day}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 6: Departure – Darjeeling to NJP via Kurseong
+:::
+::: {.day-route}
+📍 Darjeeling → NJP | 🚗 3-4 hrs | Tour Ends
+:::
+:::
+
+::: {.day-content}
+- **Check-out** after breakfast.
+- Drive towards NJP via **Kurseong**.
+- **Stop at Eagle's Crag Viewpoint**: Used by the British to monitor the plains.
+- **Kurseong Tea Gardens**: Walk through the estates that have produced tea since the 1860s.
+- Drop-off at **NJP Railway Station / Bagdogra**.
+:::
+:::
+
+
+
+## What's Included?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### ✅ Inclusions
+
+- 🏨 5 Nights accommodation (Homestays/Hotels)
+- 🍽️ Daily Breakfast and Dinner
+- 🚗 Private Vehicle for all transfers
+- 🎫 Tolls, Parking, and Driver Allowances
+- 💧 Emergency assistance
+:::
+
+::: {.column width="50%"}
+### ❌ Exclusions
+
+- 🎫 Entry fees to monuments/parks
+- 🍽️ Lunch
+- 🚂 Toy Train Tickets (Optional)
+- ✈️ Airfare / Train fare
+- 💰 Personal expenses
+:::
+
+::::
+
+
+
+
+## Photo Gallery {.section-title}
+
+## Photo Gallery {.section-title}
+
+::: {.photo-gallery-container}
+
+```{=html}
+<div id="northBengalCarousel" class="carousel slide shadow-lg rounded" data-bs-ride="carousel">
+  
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#northBengalCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#northBengalCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#northBengalCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#northBengalCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#northBengalCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  </div>
+
+  <div class="carousel-inner rounded">
+    
+    <div class="carousel-item active">
+      <img src="images/northbengal/panbu.jpg" class="d-block w-100" alt="Panbu Viewpoint" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Panbu Dara</h5>
+        <p>360-degree panoramic views of the Teesta River and Kanchenjunga.</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/northbengal/kalimpong.jpg" class="d-block w-100" alt="Kalimpong Monastery" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Kalimpong Heritage</h5>
+        <p>Ancient monasteries and the colonial charm of the Silk Route.</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/northbengal/sittong.jpg" class="d-block w-100" alt="Sittong Orange Orchards" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Sittong</h5>
+        <p>The "Orange Village" nestled in the lap of nature.</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/northbengal/takdah.jpg" class="d-block w-100" alt="Takdah Tea Garden" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Misty Takdah</h5>
+        <p>Walk through British-era cantonments and lush tea estates.</p>
+      </div>
+    </div>
+    
+    <div class="carousel-item">
+      <img src="images/northbengal/darjeeling.jpg" class="d-block w-100" alt="Darjeeling Toy Train" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Queen of Hills</h5>
+        <p>The legendary Darjeeling Himalayan Railway.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#northBengalCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon bg-dark rounded-circle p-3" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#northBengalCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon bg-dark rounded-circle p-3" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+
+</div>
+```
+
+:::
+
+
+
+
+
+## Pricing {.section-title}
+
+| Category | 2 Pax | 4 Pax | 6+ Pax |
+|----------|:-----:|:-----:|:------:|
+| **Standard (Homestay)** | ₹16,499 | ₹14,999 | ₹13,999 |
+| **Deluxe (Hotel)** | ₹20,999 | ₹18,499 | ₹17,499 |
+| **Premium (Heritage)** | ₹26,999 | ₹24,499 | ₹23,499 |
+
+
+
+
+
+## Book This Tour {.section-title}
+
+[Click here to reach us](contact.qmd){.btn .btn-primary .btn-lg}

@@ -1,0 +1,24 @@
+---
+format:
+  html:
+    css: styles.css
+    toc: false
+    page-layout: full
+---
+
+
+::: {.hero-container}
+<video autoplay muted loop id="bg-video">
+  <source src="videos/home_video.mp4" type="video/mp4">
+</video>
+
+::: {.hero-content}
+
+# WANDER. EXPLORE. LIVE.
+
+### Welcome to Your Next Adventure
+
+[Explore Destinations](destinations.qmd){.btn .btn-outline-light .btn-lg role="button"}
+
+:::
+:::

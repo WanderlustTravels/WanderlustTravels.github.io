@@ -1,0 +1,176 @@
+---
+format: 
+  html:
+    css: styles.css
+    page-layout: full
+    toc: false
+---
+
+::: page-header
+# CONTACT US
+:::
+
+
+::: {.itinerary-hero style="height: 40vh; min-height: 300px; background: #1a1a1a;"}
+![](images/contact.png)
+:::
+
+```{=html}
+<div class="container" style="margin-top: 80px; position: relative; z-index: 10; margin-bottom: 5rem;">
+  
+  <div class="row g-4">
+    
+    <div class="col-lg-5">
+      <div class="bg-white shadow-sm p-5 h-100" style="border-radius: 8px; border-top: 4px solid var(--primary-color);">
+        
+        <h1 class="text-uppercase fw-bold mb-4" style="color: var(--primary-color); letter-spacing: 2px;">Cholo Ghure Ashi</h1>
+        <h6 class="display-6 fw-bold mb-4" style="font-family: 'Lato', serif;">Discover the Unseen.</h6>
+        
+        <p class="text-muted mb-4" style="line-height: 1.8;">
+          Established in 2019, <strong>Cholo Ghura Ashi Travels</strong> is your companion for offbeat Himalayan adventures. 
+          We specialize in curating journeys to hidden gems like Panbu, Sittong, and the royal forests of Dooars.
+        </p>
+        
+        <hr class="my-4" style="opacity: 0.1;">
+
+        <div class="d-flex flex-column gap-4">
+          <div class="d-flex gap-3">
+            <div class="text-muted fs-5"><i class="bi bi-geo-alt-fill"></i></div>
+            <div>
+              <strong class="d-block text-dark">Head Office</strong>
+              <span class="text-muted small">37/1 Lalit Gupta Street, Nimta<br>Kolkata - 700049</span>
+            </div>
+          </div>
+
+          <div class="d-flex gap-3">
+            <div class="text-muted fs-5"><i class="bi bi-telephone-fill"></i></div>
+            <div>
+              <strong class="d-block text-dark">Call / WhatsApp</strong>
+              <span class="text-muted small">+91 91236 60551</span>
+            </div>
+          </div>
+
+          <div class="d-flex gap-3">
+            <div class="text-muted fs-5"><i class="bi bi-envelope-fill"></i></div>
+            <div>
+              <strong class="d-block text-dark">Email</strong>
+              <span class="text-muted small">chologhureasi951@gmail.com</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-5">
+          <p class="small text-muted mb-3 text-uppercase fw-bold">Follow Us</p>
+          <div class="d-flex gap-2">
+            <a href="[https://www.facebook.com/chologhureashitravels](https://www.facebook.com/chologhureashitravels)" target="_blank" class="btn btn-light rounded-circle" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;">
+              <i class="bi bi-facebook"></i>
+            </a>
+            <a href="https://www.instagram.com/chologhureashitravels?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="btn btn-light rounded-circle" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;">
+              <i class="bi bi-instagram"></i>
+            </a>
+            <a href="https://www.youtube.com/@chologhureashitravels5959" class="btn btn-light rounded-circle" style="width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;">
+              <i class="bi bi-youtube"></i>
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="col-lg-7">
+      <div class="bg-white shadow-sm p-5 h-100" style="border-radius: 8px;">
+        <h3 class="fw-bold mb-4">Send Your Inquiry</h3>
+        <form action="[https://formspree.io/f/yourformid](https://formspree.io/f/yourformid)" method="POST">
+          <div class="row g-4">
+            
+            <div class="col-md-6">
+              <label class="form-label">Your Name</label>
+              <input type="text" name="name" class="form-control" required>
+            </div>
+            
+            <div class="col-md-6">
+              <label class="form-label">Phone Number</label>
+              <input type="tel" name="phone" class="form-control" required>
+            </div>
+
+            <div class="col-12">
+              <label class="form-label">Interested Destination</label>
+              <select name="subject" class="form-select">
+                <option selected>Select a Package...</option>
+                <option>North Bengal (Panbu, Sittong)</option>
+                <option>Dooars (Lataguri, Jaldapara)</option>
+                <option>Bhutan (Thimphu, Paro)</option>
+                <option>Custom Itinerary</option>
+              </select>
+            </div>
+
+            <div class="col-12">
+              <label class="form-label">Write Your Message</label>
+              <textarea name="message" rows="5" class="form-control" placeholder="Tell us about your travel dates and group size..." required></textarea>
+            </div>
+
+            <div class="col-12 mt-2">
+              <button type="submit" class="btn btn-dark w-100 py-3">Send Enquiry</button>
+            </div>
+
+          </div>
+        </form>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="row justify-content-center mt-5 pt-5">
+    <div class="col-lg-8">
+      <div class="text-center mb-5">
+        <h2 class="fw-bold">Frequently Asked Questions</h2>
+        <p class="text-muted">Everything you need to know before you book.</p>
+      </div>
+
+      <div class="accordion accordion-flush" id="faqAccordion">
+        
+        <div class="accordion-item bg-white shadow-sm mb-3 rounded border-0">
+          <h2 class="accordion-header">
+            <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
+              Do you customize tour packages?
+            </button>
+          </h2>
+          <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+            <div class="accordion-body text-muted">
+              Yes! We specialize in customized itineraries. Whether you want a relaxing family trip or an adventurous trek, we can tailor the plan to your needs.
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item bg-white shadow-sm mb-3 rounded border-0">
+          <h2 class="accordion-header">
+            <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
+              How do I confirm my booking?
+            </button>
+          </h2>
+          <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+            <div class="accordion-body text-muted">
+              You can confirm your booking by paying a token advance. The remaining amount can be paid before the trip starts. We accept UPI, Bank Transfer, and Cash.
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item bg-white shadow-sm mb-3 rounded border-0">
+          <h2 class="accordion-header">
+            <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
+              Is food included in the packages?
+            </button>
+          </h2>
+          <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+            <div class="accordion-body text-muted">
+              Most of our packages are MAP (Modified American Plan), which includes Breakfast and Dinner. Lunch is usually excluded so you can explore local cuisines during sightseeing.
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+```

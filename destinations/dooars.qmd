@@ -1,0 +1,393 @@
+---
+title: "DOOARS Package"
+page-layout: full
+toc: false
+---
+
+
+::: {.itinerary-hero}
+![](/images/dooars/bindu.jpg)
+
+::: {.hero-overlay}
+::: {.hero-content}
+# Discover the Wild & Royal Dooars
+
+**5 Nights – 6 Days** | 2N Lataguri – 3N Jaldapara
+
+*The Land Where Nature Meets Nobility*
+
+::: {.hero-meta}
+[🗓️ Best Time: Oct - May]{.meta-item}
+[👥 Group Size: 2-15 People]{.meta-item}
+[📍 Pickup: Siliguri]{.meta-item}
+:::
+
+[Book This Tour](contact.qmd){.btn .btn-primary .btn-lg}
+[Download PDF](#){.btn .btn-outline-light .btn-lg}
+:::
+:::
+:::
+
+
+::: {.tour-intro .text-center .py-4}
+From the lush green jungles of **Gorumara** and **Jaldapara** to the grand royal past of **Cooch Behar**, Dooars offers a journey through time and nature. Spot the majestic one-horned rhinoceros, explore British-era forts, and experience the region's rich biodiversity on this unforgettable adventure.
+:::
+
+
+
+## Route Map
+
+::: {.route-visual}
+<pre class="text-center" style="font-family: monospace; overflow-x: auto; white-space: pre;">
+📍 SILIGURI ➡️ 🌲 LATAGURI (2N) ➡️ 🦏 JALDAPARA (3N) ➡️️ 📍 SILIGURI
+                       │                      │
+                       ▼                      ▼
+                Gorumara Safari        Jaldapara Safari
+                 7 Points Tour          Buxa Fort Trek
+                                      Cooch Behar Palace
+</pre>
+:::
+
+
+
+## Detailed Itinerary
+
+::: {.day-card}
+::: {.day-header}
+::: {.day-title}
+### DAY 1: Arrival at Siliguri – Transfer to Lataguri – Evening Safari
+:::
+::: {.day-route}
+📍 Siliguri → Lataguri | 🚗 2.5-3 hrs | 🏨 Overnight: Lataguri
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- **Meet & Greet** by our representative at Siliguri (NJP/Bagdogra).
+- **Scenic Transfer** to Lataguri (approx. 2.5–3 hrs).
+- **Check-in** at your hotel.
+- **Evening Safari** at Gorumara National Park *(optional, own cost)*.
+- Return to resort for dinner and overnight stay.
+
+#### Gorumara Safari Timings
+| Season | Morning | Afternoon |
+|--------|---------|-----------|
+| Oct - Mar | 6:00 AM | 2:30 PM |
+| Apr - May | 5:30 AM | 3:00 PM |
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Gorumara
+Declared a **wildlife sanctuary in 1949** and a **national park in 1994**, Gorumara is famed for its **Indian one-horned rhinoceroses**. It was once part of the royal hunting grounds during British rule.
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 2: Full Day Excursion – The Famous 7 Points of Dooars
+:::
+::: {.day-route}
+📍 Lataguri → 7 Points → Lataguri | 🚗 Full Day | 🏨 Overnight: Lataguri
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+After breakfast, embark on a scenic day tour across the famed **7 Points of Dooars**:
+
+1. **🏔️ Jhalong** – Riverside hamlet near Bhutan border.
+2. **🇧🇹 Bindu** – Confluence point of Jaldhaka River.
+3. **🌲 Samsing** – Peaceful valleys.
+4. **🪨 Rocky Island** – Famous for rock formations.
+5. **🌊 Murti** – Scenic riverbank.
+6. **☀️ Suntalekhola** – Nature trails.
+7. **🌺 Laliguras** – Panoramic views.
+
+- Return to Lataguri by evening.
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Bindu & Jhalong
+These riverside villages were once part of **Indo-Bhutan trade routes**. The **Jaldhaka Hydel Project** is one of the earliest India-Bhutan collaborations.
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 3: Lataguri to Jaldapara – Evening Safari
+:::
+::: {.day-route}
+📍 Lataguri → Jaldapara | 🚗 1.5-2 hrs | 🏨 Overnight: Jaldapara
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- **Transfer to Jaldapara** post breakfast.
+- **Check-in** at the resort.
+- **Evening Jungle Safari** at Jaldapara National Park *(optional, own cost)*.
+- Witness the home of the one-horned rhino.
+- Overnight stay at Jaldapara.
+
+#### 🦏 Safari Options
+| Safari Type | Duration | Best For |
+|-------------|----------|----------|
+| Jeep Safari | 2-3 hrs | Wide coverage |
+| Elephant Safari | 1-1.5 hrs | Close viewing |
+:::
+
+::: {.column width="40%"}
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Jaldapara
+[cite_start]Established in **1941**, this park was once the hunting ground of the **Cooch Behar royal family**[cite: 84]. [cite_start]It now protects the rare **Bengal Florican**[cite: 85].
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 4: Excursion to Buxa Fort, Jayanti & Chilapata
+:::
+::: {.day-route}
+📍 Jaldapara → Buxa → Jayanti → Jaldapara | 🚗 Full Day | 🏨 Overnight: Jaldapara
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- **Buxa Fort** – Historic ruins near the Bhutan border.
+- **Jayanti** – Tranquil beauty along the river.
+- **Chilapata Forest** – Dense forest trails.
+- Return to hotel by evening.
+
+#### 🥾 Trek Details – Buxa Fort
+| Aspect | Details |
+|--------|---------|
+| Difficulty | Moderate |
+| Distance | ~5 km one way |
+| Altitude | ~867 meters |
+:::
+
+::: {.column width="40%"}
+
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Buxa Fort
+This fort played a key role in British colonial politics. [cite_start]During the **freedom struggle**, the British used it as a prison for revolutionaries[cite: 92, 93].
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 5: Royal Heritage Tour of Cooch Behar
+:::
+::: {.day-route}
+📍 Jaldapara → Cooch Behar → Jaldapara | 🚗 Full Day | 🏨 Overnight: Jaldapara
+:::
+:::
+
+::: {.day-content}
+:::: {.columns}
+::: {.column width="60%"}
+#### Today's Experience
+
+- Visit **Cooch Behar Palace**, modeled after Buckingham Palace.
+- Explore the **Madan Mohan Temple**.
+- Stroll around **Sagar Dighi lake**.
+- Return to Jaldapara in the evening.
+
+:::
+
+::: {.column width="40%"}
+
+
+::: {.history-insight .callout-note}
+#### 📜 History Insight – Cooch Behar
+[cite_start]Cooch Behar was a princely state that merged with India in **1949**[cite: 102, 103]. [cite_start]The palace stands as a testimony to Indo-European architectural fusion[cite: 103].
+:::
+:::
+::::
+:::
+:::
+
+::: {.day-card .last-day}
+::: {.day-header}
+
+::: {.day-title}
+### DAY 6: Departure – Jaldapara to Siliguri
+:::
+::: {.day-route}
+📍 Jaldapara → Siliguri | 🚗 4-5 hrs | Tour Ends
+:::
+:::
+
+::: {.day-content}
+- **Check-out** after breakfast.
+- Drive back to **Siliguri**.
+- Drop-off at NJP/Bagdogra.
+:::
+:::
+
+
+
+## What's Included?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### ✅ Inclusions
+
+- 🏨 5 Nights accommodation (2N Lataguri + 3N Jaldapara)
+- 🍽️ Daily breakfast and dinner (MAP Plan)
+- 🚗 All transfers and sightseeing by private AC vehicle
+- 🚐 7 Points excursion in shared/private vehicle
+- 💧 Packaged drinking water during travel
+:::
+
+::: {.column width="50%"}
+### ❌ Exclusions
+
+- 🦏 Safari charges at Gorumara & Jaldapara (approx. ₹1,500-3,000 per person)
+- 🎫 Entry fees to monuments and parks
+- 🍽️ Lunch and snacks
+- ✈️ Airfare / train fare
+:::
+
+::::
+
+
+
+## Photo Gallery {.section-title}
+
+::: {.photo-gallery-container}
+
+```{=html}
+<div id="dooarsCarousel" class="carousel slide shadow-lg rounded" data-bs-ride="carousel">
+  
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#dooarsCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#dooarsCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#dooarsCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#dooarsCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#dooarsCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#dooarsCarousel" data-bs-slide-to="4" aria-label="Slide 6"></button>
+  </div>
+
+  <div class="carousel-inner rounded">
+    
+    <div class="carousel-item active">
+      <img src="/images/dooars/image-4.jpg" class="d-block w-100" alt="" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>The Pride of Jaldapara</h5>
+        <p>Spotting the majestic One-Horned Rhinoceros in the wild.</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="/images/dooars/image-2.jpg" class="d-block w-100" alt="" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Lush Tea Estates</h5>
+        <p>Driving through the endless green carpets of Dooars.</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="/images/dooars/image-3.jpg" class="d-block w-100" alt="River Murti" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Murti River</h5>
+        <p>The serene lifeline of Gorumara National Park.</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="/images/dooars/image-8.jpg" class="d-block w-100" alt="Cooch Behar Palace" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Royal Heritage</h5>
+        <p>The magnificent Cooch Behar Palace.</p>
+      </div>
+    </div>
+    
+    <div class="carousel-item">
+      <img src="/images/dooars/image-5.jpg" class="d-block w-100" alt="Jungle Safari" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Jungle Safari</h5>
+        <p>Adventure awaits deep inside the forests.</p>
+      </div>
+    </div>
+    
+    <div class="carousel-item">
+      <img src="/images/dooars/image-6.jpg" class="d-block w-100" alt="Jungle Safari" style="height: 500px; object-fit: cover;">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Jungle Safari</h5>
+        <p>Adventure awaits deep inside the forests.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#dooarsCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon bg-dark rounded-circle p-3" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#dooarsCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon bg-dark rounded-circle p-3" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+
+</div>
+```
+:::
+
+
+
+## Pricing
+
+| Category | 2 Pax | 4 Pax | 6+ Pax |
+|----------|:-----:|:-----:|:------:|
+| **Standard (3-Star)** | ₹21,999 | ₹19,499 | ₹18,999 |
+| **Deluxe (4-Star)** | ₹26,999 | ₹24,499 | ₹23,999 |
+| **Premium (Resort)** | ₹32,999 | ₹29,499 | ₹28,999 |
+
+
+
+
+## Book This Tour {.section-title}
+
+[Click here to reach us](contact.qmd){.btn .btn-primary .btn-lg}

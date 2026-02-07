@@ -1,0 +1,70 @@
+---
+title: "Our Tour Packages"
+format: 
+  html:
+    css: styles.css
+    page-layout: full
+    toc: false
+---
+
+::: {.itinerary-hero style="height: 50vh; min-height: 400px;"}
+![](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1920&auto=format&fit=crop)
+
+::: {.hero-overlay}
+::: {.hero-content}
+
+# EXPLORE OUR PACKAGES
+
+### From Wildlife Safaris to Himalayan Adventures
+:::
+:::
+:::
+
+
+
+## Choose Your Adventure {.text-center .mb-5 .fw-bold}
+
+::::::::::::::: collaborator-grid
+
+::: {.g-col .collaborator-card}
+![](/images/dooars/image-1.jpg){fig-alt="Alt text for Image 1"}
+
+**Wild & Royal DOOARS**
+
+*Lataguri • Jaldapara • Cooch Behar*
+
+Experience the untamed wilderness. Includes Gorumara Rhino Safari, the historic Buxa Fort, and the Royal Palace of Cooch Behar.
+
+[Click Here](/destinations/dooars.qmd)
+
+:::
+
+
+::: {.g-col .collaborator-card}
+
+![](/images/northbengal/image-1.jpeg){fig-alt="Alt text for Image 1"}
+
+**Hidden Gems of NORTH BENGAL**
+
+*Panbu • Sittong • Takdah • Darjeeling*
+
+An offbeat trail through orange orchards and colonial cantonments. Stay in British bungalows and witness the majestic Kanchenjunga.
+
+[Click Here](/destinations/north-bengal.qmd)
+
+:::
+
+
+::: {.g-col .collaborator-card}
+
+![](/images/bhutan/image-4.jpeg){fig-alt="Alt text for Image 1"}
+
+**Secrets of BHUTAN**
+
+*Thimphu • Punakha • Paro • Chelela*
+
+Journey to the Land of the Thunder Dragon. Visit the majestic Punakha Dzong, Tiger's Nest, and the highest motorable pass, Chelela.
+
+[Click Here](/destinations/bhutan.qmd)
+
+:::

@@ -1,0 +1,25 @@
+---
+format: 
+  html:
+    css: styles.css
+    page-layout: full
+    toc: false
+---
+
+::: page-header
+# GALLERY
+:::
+
+::: {layout-ncol=3}
+![Darjeeling Toy Train](https://placehold.co/600x400?text=Darjeeling)
+
+![One Horned Rhino](https://placehold.co/600x400?text=Dooars)
+
+![Bhutan Monastery](https://placehold.co/600x400?text=Bhutan)
+
+![Tea Gardens](https://placehold.co/600x400?text=Tea+Estates)
+
+![River Teesta](https://placehold.co/600x400?text=Teesta)
+
+![Himalayan Peaks](https://placehold.co/600x400?text=Kanchenjunga)
+:::

@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cholo Ghura Ashi" # Replace with your Brand Name
+  site-url: "https://suparnobhattacharyya.github.io/"
+  repo-url: "https://github.com/suparnobhattacharyya/suparnobhattacharyya.github.io"
+  
+  page-footer:
+    background: dark
+    foreground: light
+    left: |
+      **Wanderlust Travels**<br>
+      Making Dreams Come True Since 2010<br>
+      📍 123 Travel Street, Adventure City, AC 12345
+    center: |
+      [Privacy Policy](privacy.qmd) | [Terms & Conditions](terms.qmd) | [FAQ](faq.qmd)<br>
+      © 2024 Wanderlust Travels. All Rights Reserved.
+    right: |
+      **Follow Us**<br>
+      [{{< fa brands facebook >}}](https://www.facebook.com/chologhureashitravels) 
+      [{{< fa brands instagram >}}](https://www.instagram.com/chologhureashitravels?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
+      [{{< fa brands youtube >}}](https://www.youtube.com/@chologhureashitravels5959)
+
+  navbar:
+    background: "white"   # Texas A&M maroon
+    foreground: "black"     # Navbar text color
+    collapse: true
+    mainfont: "Adobe Garamond"
+    logo: images/logo.jpg
+    title: "Cholo Ghura Ashi"
+    title-href: index.qmd  # Text redirects to Home
+    
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: "Destinations"
+        menu:
+          - text: "Bhutan"
+            href: destinations/bhutan.qmd
+          - text: "Dooars"
+            href: destinations/dooars.qmd
+          - text: "North Bengal"
+            href: destinations/north-bengal.qmd
+          - text: "---"
+          - text: "View All Packages"
+            href: destinations.qmd
+      - href: gallery.qmd
+        text: "Gallery"
+      - href: contact.qmd
+        text: "Contact"
+        
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/chologhureashitravels?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+      - icon: facebook
+        href: https://www.facebook.com/chologhureashitravels
+      - icon: envelope
+        href: "mailto:chologhuraashitravels@gmail.com"
+        aria-label: Email
+      - icon: magnifying-glass
+        aria-label: Search
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    theme-toggle: true
+    
+    
+execute:
+  freeze: auto
+
+editor: visual

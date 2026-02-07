@@ -1,0 +1,431 @@
+/* =========================================================
+   1. ROOT VARIABLES (THEME ENGINE)
+   ========================================================= */
+:root {
+  /* -- Color Palette: Forest & Gold Theme -- */
+  --primary-color: #2c5f2d;    /* Deep Forest Green */
+  --secondary-color: #1f4037;  /* Dark Teal */
+  --accent-color: #d4a373;     /* Muted Gold/Earth */
+  --accent-hover: #b08968;     /* Darker Earth */
+  --gold-color: #f59e0b;       /* Bright Gold for Highlights */
+  --danger-color: #ef4444;     /* Red for warnings */
+  
+  /* -- Backgrounds & Text -- */
+  --bg-color: #fcfbf9;         /* Warm Off-White */
+  --light-bg: #ffffff;         /* Pure White */
+  --text-main: #1f2937;        /* Dark Grey */
+  --text-muted: #6b7280;       /* Medium Grey */
+
+  /* -- Spacing & Shapes -- */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 30px;
+  
+  /* -- Shadows (Modern & Soft) -- */
+  --shadow-sm: 0 2px 4px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-color: 0 10px 15px -3px rgba(44, 95, 45, 0.2); /* Green tinted shadow */
+  
+  /* -- Transitions -- */
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Global Reset adjustments */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  scroll-behavior: smooth;
+}
+
+/* =========================================================
+   2. ITINERARY HERO (PARALLAX FEEL)
+   ========================================================= */
+.itinerary-hero {
+  position: relative;
+  height: 85vh; /* Taller for impact */
+  min-height: 600px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  margin-bottom: 3rem;
+  border-bottom-left-radius: var(--radius-xl);
+  border-bottom-right-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
+}
+
+.itinerary-hero img {  /* Removed the '>' symbol */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 10s ease; 
+  position: absolute; /* Ensures it sits behind the overlay */
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+.itinerary-hero:hover > img {
+  transform: scale(1.05);
+}
+
+.itinerary-hero .hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(20, 40, 30, 0.8) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(2px); /* Slight blur for focus */
+}
+
+.itinerary-hero .hero-content {
+  text-align: center;
+  color: white;
+  padding: 3rem;
+  max-width: 900px;
+  animation: fadeInUp 1s ease-out;
+}
+
+.itinerary-hero .hero-content h1 {
+  font-size: 3.5rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+  margin-bottom: 1.5rem;
+  text-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+/* Glassmorphism Meta Tags */
+.hero-meta {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+
+.meta-item {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  padding: 0.6rem 1.2rem;
+  border-radius: 50px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: var(--transition);
+}
+
+.meta-item:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+}
+
+/* =========================================================
+   3. OVERVIEW GRID (FLOATING CARDS)
+   ========================================================= */
+.overview-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.5rem;
+  margin: 3rem 0;
+}
+
+.overview-card {
+  background: var(--light-bg);
+  padding: 2rem 1rem;
+  border-radius: var(--radius-md);
+  text-align: center;
+  border-top: 5px solid var(--primary-color); /* Changed from Left to Top */
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+}
+
+.overview-card:hover {
+  transform: translateY(-8px);
+  box-shadow: var(--shadow-lg);
+  border-top-color: var(--accent-color);
+}
+
+.overview-card h3 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-muted);
+  margin-bottom: 0.8rem;
+}
+
+.overview-card p {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+/* =========================================================
+   4. ROUTE VISUAL (Travel Ticket Look)
+   ========================================================= */
+.route-visual {
+  background-color: #fffbeb; /* Light yellow paper feel */
+  background-image: radial-gradient(#d4a373 0.5px, transparent 0.5px);
+  background-size: 10px 10px;
+  padding: 3rem 1rem;
+  border-radius: var(--radius-md);
+  margin: 3rem 0;
+  overflow-x: auto;
+  border: 2px dashed var(--accent-color);
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.05);
+}
+
+.route-visual pre {
+  background: transparent;
+  color: #4b5563;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  font-size: 1.1rem;
+  text-align: center;
+  white-space: pre; /* Keep formatting */
+  margin: 0;
+  text-shadow: 1px 1px 0px rgba(255,255,255,1);
+}
+
+/* =========================================================
+   5. DAY CARDS (TIMELINE STYLE)
+   ========================================================= */
+.day-card {
+  margin: 3rem 0;
+  background: var(--light-bg);
+  border: none;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+  position: relative;
+}
+
+.day-card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+/* Header Gradient */
+.day-header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+  padding: 1.2rem 2rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  border-bottom: 4px solid var(--accent-color);
+}
+
+.day-number {
+  background: white;
+  color: var(--primary-color);
+  width: 80px;
+  padding: 0.4rem 0;
+  text-align: center;
+  border-radius: 50px;
+  font-weight: 800;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+.day-title h3 {
+  color: white;
+  margin: 0;
+  font-size: 1.4rem;
+  font-family: 'Playfair Display', serif;
+}
+
+.day-route {
+  background: rgba(255,255,255,0.1);
+  padding: 0.3rem 1rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  margin-left: auto;
+}
+
+.day-content {
+  padding: 2.5rem;
+}
+
+/* Images inside Day Cards */
+.day-image img {
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+}
+
+.day-image img:hover {
+  transform: scale(1.02);
+}
+
+/* Last Day Special Styling */
+.last-day {
+  border: 2px solid var(--accent-color);
+}
+.last-day .day-header {
+  background: linear-gradient(135deg, var(--accent-color), #8d6e63);
+  border-bottom: none;
+}
+.last-day .day-number {
+  color: var(--accent-color);
+}
+
+/* =========================================================
+   6. INFO BOXES (HISTORY & MEALS)
+   ========================================================= */
+.history-insight {
+  background: linear-gradient(135deg, #fffbeb, #fef3c7);
+  padding: 2rem;
+  border-radius: var(--radius-md);
+  border-left: 5px solid var(--gold-color);
+  margin-top: 1.5rem;
+  position: relative;
+}
+
+.history-insight::before {
+  content: '💡'; /* Icon */
+  position: absolute;
+  top: -15px;
+  right: 20px;
+  font-size: 2rem;
+  background: white;
+  border-radius: 50%;
+  padding: 5px;
+  box-shadow: var(--shadow-sm);
+}
+
+.day-meals {
+  background: #ecfdf5;
+  color: var(--primary-color);
+  padding: 1.2rem 2.5rem;
+  border-top: 1px dashed #a7f3d0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* =========================================================
+   7. PRICING TABLE (MODERN)
+   ========================================================= */
+.pricing-table table {
+  width: 100%;
+  border-collapse: separate; /* Allows border radius */
+  border-spacing: 0;
+  margin: 2rem 0;
+  box-shadow: var(--shadow-md);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.pricing-table th {
+  background: var(--primary-color);
+  color: white;
+  padding: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.9rem;
+  border: none;
+}
+
+.pricing-table td {
+  padding: 1.2rem;
+  border-bottom: 1px solid #e5e7eb;
+  color: var(--text-main);
+  background: white;
+}
+
+.pricing-table tr:last-child td {
+  border-bottom: none;
+}
+
+.pricing-table tr:hover td {
+  background-color: #f9fafb;
+}
+
+.pricing-table td:first-child {
+  font-weight: 700;
+  color: var(--secondary-color);
+  text-align: left;
+  padding-left: 2rem;
+}
+
+/* =========================================================
+   8. BOOKING & FORMS
+   ========================================================= */
+.booking-section {
+  background: white;
+  padding: 4rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  border-top: 6px solid var(--primary-color);
+}
+
+.form-control, .form-select {
+  padding: 0.8rem 1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid #d1d5db;
+  margin-bottom: 1rem;
+  transition: var(--transition);
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 4px rgba(44, 95, 45, 0.1);
+  outline: none;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border: none;
+  padding: 0.8rem 2rem;
+  border-radius: 50px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  box-shadow: 0 4px 6px rgba(44, 95, 45, 0.3);
+  transition: var(--transition);
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(44, 95, 45, 0.4);
+}
+
+/* =========================================================
+   9. ANIMATIONS
+   ========================================================= */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .itinerary-hero .hero-content h1 {
+    font-size: 2.5rem;
+  }
+  .day-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .day-route {
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+  .booking-section {
+    padding: 2rem;
+  }
+}
